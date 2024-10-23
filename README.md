@@ -23,7 +23,7 @@ Chào mừng bạn đến với dự án Thể Thao Ngoài Trời và Chuyến �
 Chúng tôi luôn chào đón sự hợp tác từ những người đam mê thể thao ngoài trời và thiên nhiên. Nếu bạn muốn tham gia vào dự án, hãy liên hệ với chúng tôi!
 
  📞 Liên Hệ
-Nếu bạn có câu hỏi hoặc muốn hợp tác, hãy liên hệ với chúng tôi qua [email@example.com](mailto:email@example.com).
+Nếu bạn có câu hỏi hoặc muốn hợp tác, hãy liên hệ với chúng tôi qua [trkha18804]@example.com](mailto:email@example.com).
 
  ❤️ Cảm ơn bạn đã tham gia!
 Chúng tôi hy vọng bạn sẽ tìm thấy cảm hứng để tận hưởng thiên nhiên và những hoạt động thể thao ngoài trời!
