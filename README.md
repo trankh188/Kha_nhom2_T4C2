@@ -54,8 +54,5 @@
         <div style="width: calc(33.33% - 10px); padding: 15px; border-radius: 8px; text-align: center; cursor: pointer; background-color: #e8f4fa; border: 2px solid #4fc3f7; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">React.js</div>
     </div>
 </section>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
